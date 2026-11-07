@@ -36,7 +36,7 @@ I build Python scanners and recon tools, then document findings and fixes clearl
 ### 📫 Contact
 
 - **Portfolio:** [brabimadhikari.com.np](https://brabimadhikari.com.np)
-- **Email:** ubuntu@gmail.com
+- **Email:** buelasto01@gmial.com
 - **LinkedIn:** [brabim-adhikari-7a7427303](https://www.linkedin.com/in/brabim-adhikari-7a7427303/)
 
 ---
