@@ -48,4 +48,4 @@ I build Python scanners and recon tools, then document findings and fixes clearl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buelassto&layout=compact&theme=dark&hide_border=true)
 
 ---
-<sub>README generated with ❤️ — last updated: $(date -u +"%Y-%m-%d")</sub>
+<sub>README generated with ❤️ — last updated: 2026-11-07</sub>
